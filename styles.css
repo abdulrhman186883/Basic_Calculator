@@ -27,5 +27,6 @@ background-color : red
 }
 
 .numbers{
-max-width: 70%;	
+max-width: 70%;
+margin: 0 auto;
 }
